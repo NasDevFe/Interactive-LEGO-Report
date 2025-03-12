@@ -1,4 +1,4 @@
-# <p align="center">📊 Interactive LEGO Report.</p>
+# <p align="center">📊 Interactive LEGO Report</p>
 
 ## 🚀 Project Overview:
 This project presents an **interactive LEGO report** designed using **Power BI**, catering to avid LEGO collectors who seek the perfect next set. By leveraging **advanced data visualization and reporting tools**, users can explore a dataset of over **4,000 LEGO sets** based on key attributes such as **theme, piece count, age range, and price**.  
